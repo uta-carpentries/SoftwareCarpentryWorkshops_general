@@ -12,4 +12,4 @@ Quit command prompt by typing exit then pressing [Enter]
 You can set OneDrive folder as your home directory in gitbash:  
 Open .bash_profile and add:
 `export HOME="HOME=/c/Users/<yourUsername>/OneDrive`  
-New gitbash window will open in the same folder as before (in home director set by Windows ("%USERPROFILE%")), but when you type `cd` it will take you to HOME set in gitbash. 
+New gitbash window will open in the same folder as before (in home directory set by Windows ("%USERPROFILE%")), but when you type `cd` it will take you to HOME set in gitbash (OneDrive). 
