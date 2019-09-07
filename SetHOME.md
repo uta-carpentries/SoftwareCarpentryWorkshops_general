@@ -7,6 +7,7 @@ Type the following line into the command prompt window exactly as shown:
 Press [Enter], you should see SUCCESS: Specified value was saved.  
 Quit command prompt by typing exit then pressing [Enter]  
 
+To delete environment variable set with `setx`:  
 `REG delete HKCU\Environment /F /V HOME` 
 
 You can set OneDrive folder as your home directory in gitbash:  
